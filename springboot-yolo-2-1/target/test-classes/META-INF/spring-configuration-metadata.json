@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "book",
+      "type": "com.yolo.springbootyolo21.TestConfigurationProperties",
+      "sourceType": "com.yolo.springbootyolo21.TestConfigurationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-yolo-2-1/springboot-yolo-2-1.iml" filepath="$PROJECT_DIR$/springboot-yolo-2-1/springboot-yolo-2-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot_learning.iml" filepath="$PROJECT_DIR$/.idea/springboot_learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/sprinigboot-yolo-1-1/sprinigboot-yolo-1-1.iml" filepath="$PROJECT_DIR$/sprinigboot-yolo-1-1/sprinigboot-yolo-1-1.iml" />
     </modules>
